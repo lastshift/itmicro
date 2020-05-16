@@ -24,7 +24,7 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.footer]]
-URL = "services"
+URL = "service"
 name = "Services"
 weight = 3
 [[menu.footer]]
@@ -36,7 +36,7 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "services"
+URL = "service"
 name = "Services"
 weight = 3
 [[menu.main]]
